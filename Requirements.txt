@@ -1,0 +1,14 @@
+Software requirements
+
+1-Important libraries-
+   bs4(beautiful soup)
+   Matplotlib
+   Requests
+   PySpark
+   URLLIB	
+   Pandas
+
+2-Hadoop
+
+3-Jdk(java development kit)
+
