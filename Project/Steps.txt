@@ -1,0 +1,11 @@
+Steps used in data scraping:
+1- All the necessary libraries were imported.
+2-A request is made to the given URL to get access.
+3- The request object is changed to beautiful soup object.
+4- The desired part of the data from the web is scraped.
+5- The data is then stored in list format.
+6-Now importing the PYSPARK library, we move towards counting the number of occurences of words.
+7-Using the flat map function we store the number of occurences of words.
+8-Now the output is shown in the format of a list containing tuple.
+9-The tuple has the words and the number of times it occured.
+10-Using matplotlib we print the graph between the word and number of occurences of it.
